@@ -5,6 +5,7 @@ Proyecto desarrollado para gestionar ventas de una tienda de calzado nacional e 
 
 Integrantes
 Angie Alape (Líder)
+
 Alisson Gutierrez
 
 Descripcion
