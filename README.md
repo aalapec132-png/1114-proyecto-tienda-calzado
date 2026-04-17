@@ -1,4 +1,5 @@
 # 1114-proyecto-tienda-calzado
+Debes colocar en una lista los repositrios de los integrantes del equipo 
 
 Sistema de Ventas de Calzado
 Proyecto desarrollado para gestionar ventas de una tienda de calzado nacional e industrial.
