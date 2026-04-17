@@ -40,4 +40,5 @@ Consultar clientes
 Calcular ganancias correctamente
 9. Integrantes
 Angie Valentina (Líder / Diseño / Organización)
+
 Alisson Gutierrez (Formulario / Productos)
